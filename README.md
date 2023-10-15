@@ -1,5 +1,7 @@
 # EFI Hackintosh OpenCore for Dell 5581
 
+![Ảnh màn hình 2023-10-15 lúc 10 32 17](https://github.com/trongten/5581-Hackintosh/assets/70899746/45549a25-f76e-4089-93bb-ab817860a3f5)
+
 This repository contains the necessary configurations and EFI files to install macOS on a Dell 5581 using the OpenCore bootloader.
 
 ## Hardware Specifications
